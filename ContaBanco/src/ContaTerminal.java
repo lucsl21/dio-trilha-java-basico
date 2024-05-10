@@ -4,8 +4,10 @@ import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) {
-        //criando o objeto scanner
+        //simulando valor já depositado
         double saldo = 237.48;
+        //criando o objeto scanner
+
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         
         //solicitando as informações do cliente 
