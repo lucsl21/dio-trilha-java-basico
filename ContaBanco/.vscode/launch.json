@@ -1,0 +1,19 @@
+{
+    "type": "java",
+    "request": "launch",
+    "mainClass": "ContaTerminal",
+    "args": [
+        "237.48"
+    ],
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "ContaBanco_25ba57d1"
+        }
+    ]
+
+}
